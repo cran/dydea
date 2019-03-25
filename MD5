@@ -1,0 +1,11 @@
+591a0874f174972eab516b97211018ea *DESCRIPTION
+7ecffec24eb81f4e4d627d53b810124d *NAMESPACE
+2685e1b0032071281e72e4cbe24f99a7 *R/find_chaos.r
+25d994148c71748e4463132fb87ae3f6 *R/find_motions.R
+3085033bdfaa8357d9c1b880ecf4eeee *R/find_regularity.r
+4132c98cfeab4a7c04b56ff18b162b88 *R/plot_borders.R
+71bcd6954cf7721c517ab922d11c6d86 *R/test_chaos01_mw.R
+44c77df7dd63591aaa2dd14dbd3d8188 *README.md
+86a569ae90fd1034ddf905f4bfd41a8f *man/find_chaos.Rd
+8f3dc9fa6e0640f49de0d3297872ba05 *man/find_motions.Rd
+72bf10c200e837868cd27df96b19a6ec *man/find_regularity.Rd
